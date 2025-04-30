@@ -7,7 +7,7 @@ web app/
 │   styles.css
 │   script.js
 ```
-
+View Demo Web app : <link rel="stylesheet" href="https://younesnoorzahi.github.io/website-Buy-tickets-1/">
 <h2>This complete ticket purchasing web application includes:</h2>
 <p>Homepage with Featured Events:</p>
 <li>Hero section with search functionality</li>

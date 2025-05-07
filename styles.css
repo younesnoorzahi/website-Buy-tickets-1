@@ -122,7 +122,7 @@ nav ul li a.active:after {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://source.unsplash.com/random/1600x900/?concert') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img1.jpg') no-repeat center center/cover;
     color: white;
     padding: 100px 0;
     text-align: center;
